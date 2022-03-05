@@ -56,43 +56,23 @@
 
 ---
 
-
-
-<!-- YOUTUBE:START 
-
 ### 📺 Latest YouTube Videos
-
-➡️ [more videos...](https://youtube.com/giangcoi198x)
-
- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 
 ---
-
-
-
-<!-- BLOG-POST-LIST:START 
-
-### 📕 Latest Blog Posts
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/quocgiangnguyen/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-
-➡️ [more blog posts...](https://quocgiangnguyen.com)
-BLOG-POST-LIST:END -->
 
 
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/quocgiangnguyen/nft-landing-page/pull/5) in [quocgiangnguyen/nft-landing-page](https://github.com/quocgiangnguyen/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
 <!--END_SECTION:activity-->
 
 </details>
