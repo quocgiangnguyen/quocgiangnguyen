@@ -7,10 +7,10 @@ on:
 
 jobs:
   build:
-    name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
-      - uses: quocgiangnguyen/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

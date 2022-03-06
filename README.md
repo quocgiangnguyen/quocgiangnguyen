@@ -1,8 +1,7 @@
-# Hi there, My name is [Quoc Giang Nguyen][youtube] 👋 
+# Hi there, My name is [Quoc Giang Nguyen][youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCE0cXfFrvRbjr-svDGCCepg?label=Giangcoi198x&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Giangcoi198x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fquocgiangnguyen&screen_name=giangcoi198x)
-
 
 ## I'm a Husband, Father, Developer, and Leaner!!
 
@@ -10,10 +9,11 @@
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 -->
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: 
-- ⚡ Fun fact: I love to play Clash Of Clans and watch AOG 
+- 🥅 2022 Goals:
+- ⚡ Fun fact: I love to play Clash Of Clans and watch AOG
 
 ### Connect with me:
 
@@ -57,6 +57,7 @@
 ---
 
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 - [GIỚI THIỆU SỔ SỨ MỆNH TRONG GAME CLASH OF CLANS | GIANGCOI198x AND GAME](https://www.youtube.com/watch?v=u2ZMcLBRsPw)
 - [SÁNG CHUYÊN ĐI MUỘN VÌ ĐIỀU NÀY | GIANG AND WORK](https://www.youtube.com/watch?v=ipn7iS5Y-Q8)
@@ -76,7 +77,7 @@
 <details>
 
 <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -85,18 +86,25 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="quocgiangnguyen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quocgiangnguyen&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<img align="left" alt="quocgiangnguyen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quocgiangnguyen&show_icons=true&theme=dark&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
 <!-- [website]: https://quocgiangnguyen.com 
 [course]: http://vsCodeHero.com 
 -->
+
 [twitter]: https://twitter.com/giangcoi198x
+
 [youtube]: https://www.youtube.com/channel/Giangcoi198x
+
 [instagram]: https://instagram.com/Giangcoi198x
+
 [linkedin]: https://linkedin.com/in/Giangcoi198x
+
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
