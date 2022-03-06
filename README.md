@@ -68,6 +68,8 @@
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/quocgiangnguyen/quocgiangnguyen/pull/1) in [quocgiangnguyen/quocgiangnguyen](https://github.com/quocgiangnguyen/quocgiangnguyen)
+2. 💪 Opened PR [#1](https://github.com/quocgiangnguyen/quocgiangnguyen/pull/1) in [quocgiangnguyen/quocgiangnguyen](https://github.com/quocgiangnguyen/quocgiangnguyen)
 <!--END_SECTION:activity-->
 
 </details>
