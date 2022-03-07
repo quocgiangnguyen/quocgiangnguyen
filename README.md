@@ -72,8 +72,8 @@
 <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/quocgiangnguyen/quocgiangnguyen/pull/1) in [quocgiangnguyen/quocgiangnguyen](https://github.com/quocgiangnguyen/quocgiangnguyen)
-2. 💪 Opened PR [#1](https://github.com/quocgiangnguyen/quocgiangnguyen/pull/1) in [quocgiangnguyen/quocgiangnguyen](https://github.com/quocgiangnguyen/quocgiangnguyen)
+1. 🎉 Merged PR [#1](https://github.com/quocgiangnguyen/quocgiangnguyen.github.io/pull/1) in [quocgiangnguyen/quocgiangnguyen.github.io](https://github.com/quocgiangnguyen/quocgiangnguyen.github.io)
+2. 💪 Opened PR [#1](https://github.com/quocgiangnguyen/quocgiangnguyen.github.io/pull/1) in [quocgiangnguyen/quocgiangnguyen.github.io](https://github.com/quocgiangnguyen/quocgiangnguyen.github.io)
 <!--END_SECTION:activity-->
 
 </details>
